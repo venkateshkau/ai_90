@@ -1,0 +1,3 @@
+- Created a repo and setup the project, api keys
+- Setup claude to make it understand the assignment.
+- Make claude to put commands and logs on seperate file /logs/day01.md 

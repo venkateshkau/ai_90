@@ -1,7 +1,14 @@
 {
   "permissions": {
     "allow": [
-      "Bash(uv --version)"
+      "Bash(uv --version)",
+      "Bash(git check-ignore *)",
+      "Bash(uv run *)",
+      "Bash(find / -maxdepth 4 -iname \"*90Day*\")",
+      "Bash(ls -la /plan)",
+      "Bash(command -v pdftotext pdftoppm pdfinfo)",
+      "Bash(command -v brew)",
+      "Bash(brew install *)"
     ]
   }
 }

@@ -68,3 +68,10 @@ is the curriculum. Follow it; don't invent a different plan.
   Day 1 deliverable — VK writes that, not the coach.
 - `notes/dayNN.md` and `notes/dayNN-feedback.md` are VK's running log; read the
   latest ones for context on recent progress before orienting a new day.
+- The full curriculum lives at `plan/VK_90_Day_AI_Daily_Guide.pdf`. It's large —
+  don't read it proactively or all at once. Only open specific pages from it
+  when VK asks you to refer to it. Still only actively coach the day VK opens
+  with "start"; don't read or act on future days on your own.
+- Maintain `logs/dayNN.md` each day: a coach-written log of the session
+  (summary, commands run, decisions/corrections made, open items). This is
+  separate from VK's own `notes/dayNN.md` and `notes/dayNN-feedback.md`.
